@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-image: url("/pizza-background.jpg");
+}
+
+* {
+  color: maroon;
+  /*text-shadow: 2px 2px white;*/
+  /*border-right: 20px;*/
+}
+
+ul {
+  list-style-type: none;
+}
